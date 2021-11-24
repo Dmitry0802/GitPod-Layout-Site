@@ -1,2 +1,3 @@
-# GitPod-Layout-Site
+## GitPod-Layout-Site
 A simple, stacked website layout💻. It will be better 🕑 soon...
+>Link to layout: https://www.figma.com/file/qdqYUt3AYbMvDWZsWFVz0f/Gitpod?node-id=0%3A1
